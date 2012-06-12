@@ -15,3 +15,7 @@ en:
     errors:
       messages:
         invalid_transition: "cannot transition"
+  dynamoid:
+    errors:
+      messages:
+        invalid_transition: "cannot transition"
